@@ -23,6 +23,3 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdhqwe1030&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kdhqwe1030&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm dohyun</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h1 align="center">Dohyun’s Record</h1>
+<h3 align="center"> Front developer planting apple trees🌳 </h3>
 
 <br/>
 

@@ -11,7 +11,7 @@
 
 <h2 align="left">Stack:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,flutter,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,ts,flutter,aws&theme=dark)](https://skillicons.dev)
 
 
 

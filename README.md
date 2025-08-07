@@ -1,7 +1,3 @@
-<h1 align="center">Dohyun’s Record</h1>
-<h3 align="center"> Front developer planting apple trees🌳 </h3>
-
-<br/>
 
 <h2 align="left">Connect with me:</h2>
 
